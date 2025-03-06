@@ -1,5 +1,6 @@
 ActiveRecord CRUD
 ---
+It give viewers a simple concept to make CRUD using Ruby
 
 ## SWBATs
 - [ ] Get comfortable with checking `rake -T`
